@@ -5,7 +5,7 @@ import { createStream } from "../../actions";
 
 class StreamCreate extends React.Component {
   renderError(error, touched) {
-    if (touched && error) {
+    if (error && touched) {
       return (
         <div className="ui error message">
           <div className="header">{error}</div>
