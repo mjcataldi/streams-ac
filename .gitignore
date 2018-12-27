@@ -28,24 +28,3 @@ client/src/components/GoogleAuth.js
 # API FOLDER IGNORE
 # dependencies
 api/node_modules
-api/.pnp
-api/.pnp.js
-
-# testing
-api/coverage
-
-# production
-api/build
-
-# misc
-api/.DS_Store
-api/.env.local
-api/.env.development.local
-api/.env.test.local
-api/.env.production.local
-api/
-api/npm-debug.log*
-api/yarn-debug.log*
-api/yarn-error.log*
-api/
-api/src/components/GoogleAuth.js
