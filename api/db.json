@@ -2,93 +2,13 @@
   "streams": [
     {
       "id": 1,
-      "name": "Stuff1",
+      "name": "First Stream",
       "description": "Here is the description"
     },
     {
       "id": 2,
-      "name": "Stuff2",
+      "name": "Second Stream",
       "description": "Here is the description"
-    },
-    {
-      "id": 3,
-      "name": "Stuff3",
-      "description": "Here is the description"
-    },
-    {
-      "id": 4,
-      "name": "Stuff4",
-      "description": "Here is the description"
-    },
-    {
-      "id": 5,
-      "name": "Stuff5",
-      "description": "Here is the description"
-    },
-    {
-      "id": 6,
-      "name": "Stuff6",
-      "description": "Here is the description"
-    },
-    {
-      "id": 7,
-      "name": "Stuff7",
-      "description": "Here is the description"
-    },
-    {
-      "id": 8,
-      "name": "Stuff8",
-      "description": "Here is the description"
-    },
-    {
-      "id": 9,
-      "name": "Stuff9",
-      "description": "Here is the description"
-    },
-    {
-      "id": 10,
-      "name": "Stuff10",
-      "description": "Here is the description"
-    },
-    {
-      "id": 11,
-      "name": "Stuff11",
-      "description": "Here is the description"
-    },
-    {
-      "id": 12,
-      "name": "Stuff12",
-      "description": "Here is the description"
-    },
-    {
-      "title": "A new title",
-      "description": "This is the description of a new title.",
-      "id": 13
-    },
-    {
-      "title": "A new title 2",
-      "description": "This is the description of a new title 2.",
-      "id": 14
-    },
-    {
-      "title": "A new title 4",
-      "description": "Yup",
-      "id": 15
-    },
-    {
-      "title": "A new title 5",
-      "description": "Yup",
-      "id": 16
-    },
-    {
-      "title": "Other Stream",
-      "description": "Here's some stream",
-      "id": 17
-    },
-    {
-      "title": "Other Stream",
-      "description": "Here's some stream 2",
-      "id": 18
     }
   ]
 }
